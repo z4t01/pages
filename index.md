@@ -2,7 +2,7 @@
 
 Hi
 
-<img src="https://avatars.githubusercontent.com/u/57846105?s=460&u=4dedd4a0b4f1a21478243a1d0d0d78b42024637b&v=4" width=250>
+<img src="https://avatars.githubusercontent.com/u/57846105?s=460&u=4dedd4a0b4f1a21478243a1d0d0d78b42024637b&v=4" width=280>
 
 welcome to my github page.
 
